@@ -8,6 +8,8 @@ Scales as needed - Sticking to 18pt for Rack Ears to keep a unified Look.<br>
 Created from within draw.io instead of Shapes XML to get Shapes done in favor of speed over precision.<br>
 If you'd like to contribute please include an SVG export and the original .drawio file.<br>
 
+![img](https://github.com/Fabl0s/Draw.io-Shapes-Collection/assets/31359926/8763c797-a731-4f67-8a66-7d37d6873eb7)
+
 All trademarks, logos and brand names are the property of their respective owners.<br>
 All company, product and service names used in this website are for identification purposes only.<br>
 Use of these names,trademarks and brands does not imply endorsement.<br>
